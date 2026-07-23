@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Diakhaby Plomberie | Plombier</title>
+<meta name="description" content="Diakhaby Plomberie - Installation, dépannage et rénovation plomberie.">
+
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+    <img src="IMG_9288.png" alt="Logo Diakhaby Plomberie">
+    <h1>Diakhaby Plomberie</h1>
+</header>
+
+<section>
+    <h2>Votre plombier de confiance</h2>
+    <p>Installation • Dépannage • Rénovation</p>
+    <p>Intervention rapide et devis gratuit.</p>
+
+    <a href="tel:0780392336">📞 Appeler maintenant</a>
+</section>
+
+<footer>
+    <p>© Diakhaby Plomberie</p>
+</footer>
+
+<script src="script.js"></script>
+
+</body>
+</html>
